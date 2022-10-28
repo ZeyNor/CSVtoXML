@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Contacts>
+        <Contact>
+        <username>user1</username>
+        <firstname>FirstName1</firstname>
+        <lastname>LastName1</lastname>
+        <email>email1@magarsus.com</email>
+        <roles>
+                <role>Role1</role>
+                <role>Role2</role>
+        </roles>
+    </Contact>
+    <Contact>
+        <username>user2</username>
+        <firstname>FirstName2</firstname>
+        <lastname>LastName2</lastname>
+        <email>email2@magarsus.com</email>
+        <roles>
+                <role>Role3</role>
+                <role>Role4</role>
+        </roles>
+    </Contact>
+</Contacts>
+
+

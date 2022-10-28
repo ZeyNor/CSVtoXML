@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="CSV-XML">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/CSV-XML/freemarker.jar!/" />
+      <root url="jar://$PROJECT_DIR$/CSV-XML/csv.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
